@@ -1,6 +1,6 @@
 ---
 id: vmware
-title: Boot using VMware
+title: Boot using VMware (easy)
 sidebar_label: Boot using VMware
 description: "Using netboot.xyz in VMware to install a VM"
 hide_table_of_contents: true
